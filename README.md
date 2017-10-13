@@ -1,2 +1,0 @@
-# JavaHR
-Human resources
